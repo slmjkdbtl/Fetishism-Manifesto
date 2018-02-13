@@ -2,6 +2,12 @@
 
 Make games to celebrate your love to certain objects.
 
+* Object *
+You should love the object
+
+* Presentation *
+The digital presentation of the object does not have to totally resemble the real world reference
+
 * Classification *
 Classify games by its content and objects instead of its "play style", like a *fish game*, ten *finger games*, a handful of *toothpaste games*
 
