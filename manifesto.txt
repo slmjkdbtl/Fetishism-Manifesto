@@ -1,4 +1,4 @@
-# Fetishism Manifesto
+# 恋物 liàn wù​
 
 Make games to celebrate your love to certain objects.
 
@@ -15,4 +15,4 @@ Classify games by its content and objects instead of its "play style", like a *f
 Write functions that are your favorite actions to your objests, like *Toothpaste:squeeze()*, *Milkbottle:lick()*
 
 * Publication *
-Don't explain why you choose this object (no words in the world could possibly explain)
+Don't explain why you love this object (no words in the world could possibly explain)
