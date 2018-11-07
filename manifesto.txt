@@ -1,18 +1,19 @@
-# 恋物 liàn wù​
+恋物 liàn wù
 
 Make games to celebrate your love to certain objects.
 
-* Object *
+= Object
 You should love the object
 
-* Presentation *
+= Presentation
 The digital presentation of the object does not have to totally resemble the real world reference
 
-* Classification *
-Classify games by its content and objects instead of its "play style", like a *fish game*, ten *finger games*, a handful of *toothpaste games*
+= Classification
+Classify games by its content and objects instead of its "play style", like a "fish game", ten "finger games", a handful of "toothpaste games"
 
-* Programming *
-Write functions that are your favorite actions to your objests, like *Toothpaste:squeeze()*, *Milkbottle:lick()*
+= Programming
+Write functions that are your favorite actions to your objests, like *toothpaste:squeeze()*, *milkbottle:lick()*
 
-* Publication *
-Don't explain why you love this object (no words in the world could possibly explain)
+= Publication
+Don't explain why you love this object (no words could explain)
+
